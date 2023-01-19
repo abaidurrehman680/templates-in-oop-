@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\university work\BSCS-2\OOP\CODE\class task 2nd l\class task 2nd l\Source.cpp(10): warning C4715: 'searchElement<int>': not all control paths return a value
+D:\university work\BSCS-2\OOP\CODE\class task 2nd l\class task 2nd l\Source.cpp(10): warning C4715: 'searchElement<double>': not all control paths return a value
+D:\university work\BSCS-2\OOP\CODE\class task 2nd l\class task 2nd l\Source.cpp(10): warning C4715: 'searchElement<char>': not all control paths return a value
+  class task 2nd l.vcxproj -> D:\university work\BSCS-2\OOP\CODE\class task 2nd l\x64\Debug\class task 2nd l.exe
